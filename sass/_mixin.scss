@@ -1,0 +1,7 @@
+// li common mixin
+@mixin list_extra_element {
+    list-style: none;
+    display: inline-block;
+    text-transform: uppercase;
+    padding: 25px 0;
+}
